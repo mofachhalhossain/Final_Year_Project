@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">WE</string>
+
+    <!--    for transport-->
+
+    <string name="shurjomukhi_name">Shurjomukhi</string>
+    <string name="details">
+        Driver: Habib-01862670520\n\
+        \
+        1) 7.15 am	  -\From   MC	  \ To    Permanent Campus
+        \
+        2) 7.30 am	  -\From   Mirpur	  \ To    Permanent Campus
+        \
+        3) 7.45 am	  -\From   MES	  \ To    Permanent Campus
+        \
+        4) 8.00 am	  -\From   UC	  \ To    Permanent Campus
+        \
+        5) 7.15 am	  -\From   Tongi College gate	  \ To    Permanent Campus
+        \
+        6) 7.45 am	  -\Form   Savar	  \ To    Permanent Campus
+        \
+        7) 7.30 am	  -\Form   Baipail bus station	  \ To    Permanent Campus
+        \
+        8) 7.45 am	  -\Form   Dhamrai bus station	  \ To    Permanent Campus
+        \
+        9) 10.00 am	  -\Form   MC	  \ To    Permanent Campus
+        \
+        10) 10.00 am	  -\Form   Tongi College gate	  \ To    Permanent Campus
+        \
+        11) 10.00 am	  -\Form   UC 	  \ To    Permanent Campus
+        \
+        12) 2.40 pm	  -\Form   Permanent Campus	  \ To    MC,MES,Tongi College gate,Nabinagar
+        \
+        13) 5.20 pm	  -\Form   Permanent Campus	  \ To    MC,MES,Tongi College gate,Nabinagar,Mirpur,Savar
+
+
+    </string>
+
+    <string name="Rojonigondha_name">Rojonigondha</string>
+
+    <!--    for chat-->
+
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="click_here_to_register">Click Here To Register</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login">Click Here To Login</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="write_a_message">Write a message…</string>
+
+
+</resources>
